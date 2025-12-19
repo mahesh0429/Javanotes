@@ -1,1 +1,1 @@
-# Javanotes
+Core Java Complete notes
